@@ -1,7 +1,7 @@
 # Getting Started
 
 - Install Xcode 11.0 or above from [here](https://developer.apple.com/download/release/) (will need Apple ID sign in)
-- Make a new project as mentioned [here](https://developer.apple.com/documentation/xcode/creating_an_xcode_project_for_an_app)
+- Make a new project as mentioned [here](https://developer.apple.com/documentation/xcode/creating_an_xcode_project_for_an_app) or just pull this project from github and follow along
 
 
 # Understanding the Views
